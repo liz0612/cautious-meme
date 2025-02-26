@@ -93,7 +93,5 @@ The app will now be accessible at **http://localhost:3000**.
 ---
 
 ## **🚀 Deployment**
-The app is deployed to **Render**.
-
-🔗 **Live URL:** [Insert Render Deployment Link Here]  
+ 
 🔗 **GitHub Repository:** [https://github.com/liz0612/cautious-meme](https://github.com/liz0612/cautious-meme)
